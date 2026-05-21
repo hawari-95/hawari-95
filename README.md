@@ -1,82 +1,89 @@
-
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0f172a&height=220&section=header&text=Muhammad%20Hawari&fontSize=46&fontColor=e2e8f0&animation=fadeIn&fontAlignY=38&desc=Tech%20Student%20•%20Music%20Enthusiast%20•%20Story%20Game%20Player&descAlignY=58&descAlign=50" width="100%" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0f172a&height=200&section=header&text=Muhammad%20Hawari&fontSize=48&fontColor=e2e8f0&animation=fadeIn&fontAlignY=38&desc=Tech%20Student%20•%20Audio%20Enjoyer%20•%20Story%20Game%20Explorer&descAlignY=58&descAlign=50&descSize=16" width="100%" />
 </p>
 
-<div align="center">
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Space+Mono&size=14&duration=3000&pause=1000&color=38BDF8&center=true&vCenter=true&width=600&lines=Laravel+%7C+PHP+%7C+Java+%7C+MySQL;IEM+%26+Audio+Gear+Enthusiast;Story-Driven+Game+Explorer;Dark+Mode+First+%E2%80%94+Always" />
+</p>
 
-# 🎧 Muhammad Hawari
-
-### Tech Student • Audio Enjoyer • Story Game Explorer
-
-<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=18&duration=3000&pause=1000&color=94A3B8&center=true&vCenter=true&width=700&lines=Laravel+%7C+Java+%7C+MySQL;IEM+Enthusiast+%26+Music+Lover;Story+Driven+Games+Enjoyer;Dark+Mode+First+Developer" />
-
-</div>
-
----
+<br/>
 
 ## 👋 About Me
 
-Hi, I'm **Muhammad Hawari** — a tech student who enjoys building things on the web while vibing to music through IEMs.
+Hi, I'm **Muhammad Hawari** — a tech student who builds on the web while vibing to music through IEMs.
 
-Outside coding, I spend most of my time:
-- 🎵 Listening to J-Pop, J-Rock, anime OSTs, and instrumental tracks
-- 🎧 Exploring IEM drivers, tuning, DACs, and audio setups
-- 🎮 Playing story-rich games with immersive worlds and soundtracks
-- 🌙 Designing dark-mode-first interfaces and clean user experiences
+```txt
+Currently exploring  →  Laravel · Java · MySQL · Tailwind
+Always listening to  →  J-Pop · J-Rock · Anime OSTs · Instrumentals
+Gear on desk         →  CCA Polaris · FiiO JA11
+Coding environment   →  Dark theme · Music on · Late night
+```
 
----
+<br/>
 
 ## ⚙️ Tech Stack
 
-<div align="center">
-
-<img src="https://skillicons.dev/icons?i=laravel,php,java,mysql,js,tailwind,idea,vscode,git&theme=dark" />
-
-</div>
-
----
-
-## 📊 GitHub Analytics
-
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=hawari-95&show_icons=true&bg_color=0f172a&title_color=e2e8f0&text_color=94a3b8&icon_color=38bdf8&hide_border=true" width="48%" />
-  
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hawari-95&layout=compact&bg_color=0f172a&title_color=e2e8f0&text_color=94a3b8&hide_border=true" width="37%" />
+  <img src="https://skillicons.dev/icons?i=laravel,php,java,mysql,js,tailwind&theme=dark&perline=6" />
+</p>
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=idea,vscode,git&theme=dark&perline=6" />
 </p>
 
----
+<br/>
 
-## 🎧 Current Interests
+## 📊 GitHub Stats
 
-```txt
-🎵 IEM & Audio Gear
-- CCA Polaris
-- FiiO JA11
-- Driver tuning & EQ exploration
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=hawari-95&show_icons=true&bg_color=0f172a&title_color=38bdf8&text_color=94a3b8&icon_color=38bdf8&hide_border=true&border_radius=10&rank_icon=github" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hawari-95&layout=compact&bg_color=0f172a&title_color=38bdf8&text_color=94a3b8&hide_border=true&border_radius=10&langs_count=6" width="37%" />
+</p>
 
-🎮 Favorite Game Vibes
-- Story-rich adventure games
-- Atmospheric open worlds
-- Emotional OST experiences
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=hawari-95&background=0f172a&ring=38bdf8&fire=38bdf8&currStreakLabel=94a3b8&sideLabels=94a3b8&dates=475569&hide_border=true&border_radius=10" width="55%" />
+</p>
 
-💻 Coding Environment
-- Dark themes only
-- Music always on
-- Late night coding sessions
-````
+<br/>
 
----
+## 🎧 Interests
+
+<table align="center">
+  <tr>
+    <td align="center" width="200">
+      <b>🎧 IEM & Audio</b><br/><br/>
+      <sub>CCA Polaris · FiiO JA11<br/>Driver tuning · EQ exploration<br/>DAC/amp setups</sub>
+    </td>
+    <td align="center" width="200">
+      <b>🎵 Music</b><br/><br/>
+      <sub>J-Pop · J-Rock<br/>Anime OSTs<br/>Instrumental tracks</sub>
+    </td>
+    <td align="center" width="200">
+      <b>🎮 Games</b><br/><br/>
+      <sub>Story-rich adventures<br/>Atmospheric open worlds<br/>Emotional OST experiences</sub>
+    </td>
+  </tr>
+</table>
+
+<br/>
 
 ## 🌌 Philosophy
 
-> “Good music, immersive stories, and clean code make the perfect atmosphere.”
+<p align="center">
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark&quote=Good%20music%2C%20immersive%20stories%2C%20and%20clean%20code%20make%20the%20perfect%20atmosphere.&author=Muhammad%20Hawari" />
+</p>
+
+<br/>
 
 ---
 
-<div align="center">
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=hawari-95&label=Profile+Views&color=0f172a&style=flat-square&labelColor=1e293b" />
+  &nbsp;
+  <img src="https://img.shields.io/badge/Dark%20Mode-Always-38bdf8?style=flat-square&labelColor=1e293b" />
+  &nbsp;
+  <img src="https://img.shields.io/badge/Music-Always%20On-a78bfa?style=flat-square&labelColor=1e293b" />
+</p>
 
-<img src="https://komarev.com/ghvc/?username=hawari-95&label=Profile%20Views&color=111827&style=flat-square" />
-
-</div>
-```
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0f172a&height=100&section=footer" width="100%" />
+</p>
