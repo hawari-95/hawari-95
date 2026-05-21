@@ -32,8 +32,9 @@ Coding environment   →  Dark theme · Music on · Late night
 </p>
 <br/>
 ## 📊 GitHub Stats
+
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=hawari-95&background=0f172a&ring=38bdf8&fire=38bdf8&currStreakLabel=38bdf8&sideLabels=94a3b8&dates=475569&hide_border=true&border_radius=10&stroke=1e293b" width="55%" />
+  <img src="https://streak-stats.demolab.com?user=hawari-95&background=0f172a&ring=38bdf8&fire=38bdf8&currStreakNum=e2e8f0&currStreakLabel=38bdf8&sideNums=e2e8f0&sideLabels=94a3b8&dates=64748b&hide_border=true&border_radius=10&stroke=1e293b" width="55%" />
 </p>
 <br/>
 ## 🎯 Interactive Profile
