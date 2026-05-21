@@ -32,11 +32,6 @@ Coding environment   →  Dark theme · Music on · Late night
 </p>
 <br/>
 ## 📊 GitHub Stats
- 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=hawari-95&show_icons=true&bg_color=0f172a&title_color=38bdf8&text_color=94a3b8&icon_color=38bdf8&hide_border=true&border_radius=10&rank_icon=github" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hawari-95&layout=compact&bg_color=0f172a&title_color=38bdf8&text_color=94a3b8&hide_border=true&border_radius=10&langs_count=6" width="37%" />
-</p>
 <p align="center">
   <img src="https://streak-stats.demolab.com?user=hawari-95&background=0f172a&ring=38bdf8&fire=38bdf8&currStreakLabel=38bdf8&sideLabels=94a3b8&dates=475569&hide_border=true&border_radius=10&stroke=1e293b" width="55%" />
 </p>
@@ -45,8 +40,9 @@ Coding environment   →  Dark theme · Music on · Late night
  
 <p align="center">
   <a href="https://profile-card-jade-five.vercel.app/">
-    <img src="profile picture.png" width="680px" alt="Muhammad Hawari Interactive Profile" />
+    <img src="https://img.shields.io/badge/🌐%20Open%20Interactive%20Profile-Click%20Here-38bdf8?style=for-the-badge&labelColor=0f172a" />
   </a>
+</p>
   <br/><br/>
   <sub><i>👆 Klik gambar untuk membuka versi interaktif</i></sub>
 </p>
