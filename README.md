@@ -17,7 +17,7 @@ Hi, I'm **Muhammad Hawari** — a tech student who builds on the web while vibin
 ```txt
 Currently exploring  →  Laravel · Java · MySQL · Tailwind
 Always listening to  →  J-Pop · J-Rock · Anime OSTs · Instrumentals
-Gear on desk         →  CCA Polaris · FiiO JA11
+Gear on desk         →  Kiwi Ears Cadenza 2 · TRN BlackPearl · Softears UC · Yongse Cloisonne
 Coding environment   →  Dark theme · Music on · Late night
 ```
  
