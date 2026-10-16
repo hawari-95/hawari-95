@@ -1,87 +1,68 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0f172a&height=200&section=header&text=Muhammad%20Hawari&fontSize=48&fontColor=e2e8f0&animation=fadeIn&fontAlignY=38&desc=Tech%20Student%20•%20Audio%20Enjoyer%20•%20Story%20Game%20Explorer&descAlignY=58&descAlign=50&descSize=16" width="100%" />
+  <img alt="Muhammad Hawari" src="https://capsule-render.vercel.app/api?type=waving&color=0f172a&height=200&section=header&text=Muhammad%20Hawari&fontSize=48&fontColor=e2e8f0&animation=fadeIn&fontAlignY=38&desc=Full-Stack%20Web%20Developer%20•%20Audio%20Enjoyer&descAlignY=58&descAlign=50&descSize=16" width="100%" />
 </p>
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Space+Mono&size=14&duration=3000&pause=1000&color=38BDF8&center=true&vCenter=true&width=600&lines=Laravel+%7C+PHP+%7C+Java+%7C+MySQL;IEM+%26+Audio+Gear+Enthusiast;Story-Driven+Game+Explorer;Dark+Mode+First+%E2%80%94+Always" />
-</p>
-<p align="center">
-  <a href="https://profile-card-jade-five.vercel.app/">
-    <img src="https://img.shields.io/badge/✨%20View%20Interactive%20Profile-1e293b?style=for-the-badge&color=0f172a&logoColor=38bdf8" />
-  </a>
-</p>
-<br/>
-## 👋 About Me
- 
-Hi, I'm **Muhammad Hawari** — a tech student who builds on the web while vibing to music through IEMs.
- 
-```txt
-Currently exploring  →  Laravel · Java · MySQL · Tailwind
-Always listening to  →  J-Pop · J-Rock · Anime OSTs · Instrumentals
-Gear on desk         →  Kiwi Ears Cadenza 2 · TRN BlackPearl · Softears UC · Yongse Cloisonne
-Coding environment   →  Dark theme · Music on · Late night
-```
- 
-<br/>
-## ⚙️ Tech Stack
- 
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=laravel,php,java,mysql,js,tailwind&theme=dark&perline=6" />
-</p>
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=idea,vscode,git&theme=dark&perline=6" />
-</p>
-<br/>
-## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=hawari-95&background=0f172a&ring=38bdf8&fire=38bdf8&currStreakNum=e2e8f0&currStreakLabel=38bdf8&sideNums=e2e8f0&sideLabels=94a3b8&dates=64748b&hide_border=true&border_radius=10&stroke=1e293b" width="55%" />
+  <img alt="Typing animation" src="https://readme-typing-svg.herokuapp.com?font=Space+Mono&size=14&duration=3000&pause=1000&color=38BDF8&center=true&vCenter=true&width=600&lines=Laravel+%7C+Flutter+%7C+React+%7C+MySQL;D-IV+Teknik+Informatika+%40+Polilhokseumawe;Dark+Mode+First+%E2%80%94+Always" />
 </p>
-<br/>
-## 🎯 Interactive Profile
- 
+
 <p align="center">
+  <a href="https://hawari-95.vercel.app/">
+    <img alt="Portofolio" src="https://img.shields.io/badge/🌐%20Portofolio-hawari--95.vercel.app-38bdf8?style=for-the-badge&labelColor=0f172a" />
+  </a>
   <a href="https://profile-card-jade-five.vercel.app/">
-    <img src="https://img.shields.io/badge/🌐%20Open%20Interactive%20Profile-Click%20Here-38bdf8?style=for-the-badge&labelColor=0f172a" />
+    <img alt="Profil interaktif" src="https://img.shields.io/badge/✨%20Profil%20Interaktif-1e293b?style=for-the-badge&color=0f172a" />
   </a>
 </p>
-  <br/><br/>
-  <sub><i>👆 Klik gambar untuk membuka versi interaktif</i></sub>
+
+## 👋 Tentang Saya
+
+Mahasiswa D-IV Teknik Informatika, Politeknik Negeri Lhokseumawe. Fokus sebagai **Full-Stack Web Developer** (Laravel, Flutter, React), pemegang sertifikat kompetensi LSP Web Developer, dengan pengalaman magang di bagian Berita TVRI Banda Aceh (2023).
+
+```txt
+Fokus saat ini   →  [proyek / hal yang sedang dikerjakan]
+Lingkungan kerja →  Dark theme · Musik menyala · Larut malam
+```
+
+## ⚙️ Tech Stack
+
+<p align="center">
+  <img alt="Tech stack" src="https://skillicons.dev/icons?i=laravel,php,flutter,dart,react,js,java,mysql,tailwind,git,ubuntu&theme=dark&perline=11" />
 </p>
-<br/>
-## 🎧 Interests
- 
+
+<p align="center">
+  <img alt="GitHub streak" src="https://streak-stats.demolab.com?user=hawari-95&background=0f172a&ring=38bdf8&fire=38bdf8&currStreakNum=e2e8f0&currStreakLabel=38bdf8&sideNums=e2e8f0&sideLabels=94a3b8&dates=64748b&hide_border=true&border_radius=10&stroke=1e293b" width="55%" />
+</p>
+
+## 🎧 Di Luar Coding
+
 <table align="center">
   <tr>
     <td align="center" width="200">
       <b>🎧 IEM & Audio</b><br/><br/>
-      <sub>Kiwi Ears Cadenza 2 · TRN BlackPearl<br/>Driver tuning · EQ exploration<br/>Softears UC · Yongse Cloisonne</sub>
+      <sub>Kiwi Ears Cadenza 2 · TRN BlackPearl<br/>Softears UC · Yongse Cloisonne</sub>
     </td>
     <td align="center" width="200">
-      <b>🎵 Music</b><br/><br/>
-      <sub>J-Pop · J-Rock<br/>Anime OSTs<br/>Instrumental tracks</sub>
+      <b>🎵 Musik</b><br/><br/>
+      <sub>J-Pop · J-Rock<br/>Anime OST · Instrumental</sub>
     </td>
     <td align="center" width="200">
-      <b>🎮 Games</b><br/><br/>
-      <sub>Story-rich adventures<br/>Atmospheric open worlds<br/>Emotional OST experiences</sub>
+      <b>🎮 Game</b><br/><br/>
+      <sub>Story-rich adventures<br/>Atmospheric open worlds</sub>
     </td>
   </tr>
 </table>
-<br/>
-## 🌌 Philosophy
- 
-<p align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark&quote=Good%20music%2C%20immersive%20stories%2C%20and%20clean%20code%20make%20the%20perfect%20atmosphere.&author=Muhammad%20Hawari" />
-</p>
-<br/>
+
+## 📫 Kontak
+
+[Email](muhammadhawari0153@gmail.com) · [LinkedIn](https://www.linkedin.com/in/muhammad-hawari-344706443)
+
 ---
- 
+
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=hawari-95&label=Profile+Views&color=0f172a&style=flat-square&labelColor=1e293b" />
-  &nbsp;
-  <img src="https://img.shields.io/badge/Dark%20Mode-Always-38bdf8?style=flat-square&labelColor=1e293b" />
-  &nbsp;
-  <img src="https://img.shields.io/badge/Music-Always%20On-a78bfa?style=flat-square&labelColor=1e293b" />
+  <img alt="Profile views" src="https://komarev.com/ghpvc/?username=hawari-95&label=Profile+Views&color=0f172a&style=flat-square&labelColor=1e293b" />
 </p>
+
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0f172a&height=100&section=footer" width="100%" />
+  <img alt="" src="https://capsule-render.vercel.app/api?type=waving&color=0f172a&height=100&section=footer" width="100%" />
 </p>
