@@ -19,11 +19,6 @@
 
 Mahasiswa D-IV Teknik Informatika, Politeknik Negeri Lhokseumawe. Fokus sebagai **Full-Stack Web Developer** (Laravel, Flutter, React), pemegang sertifikat kompetensi LSP Web Developer, dengan pengalaman magang di bagian Berita TVRI Banda Aceh (2023).
 
-```txt
-Fokus saat ini   →  [proyek / hal yang sedang dikerjakan]
-Lingkungan kerja →  Dark theme · Musik menyala · Larut malam
-```
-
 ## ⚙️ Tech Stack
 
 <p align="center">
