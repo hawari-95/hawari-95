@@ -54,7 +54,7 @@ Coding environment   →  Dark theme · Music on · Late night
   <tr>
     <td align="center" width="200">
       <b>🎧 IEM & Audio</b><br/><br/>
-      <sub>CCA Polaris · FiiO JA11<br/>Driver tuning · EQ exploration<br/>DAC/amp setups</sub>
+      <sub>Kiwi Ears Cadenza 2 · TRN BlackPearl<br/>Driver tuning · EQ exploration<br/>Softears UC · Yongse Cloisonne</sub>
     </td>
     <td align="center" width="200">
       <b>🎵 Music</b><br/><br/>
